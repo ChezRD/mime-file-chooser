@@ -3,8 +3,7 @@ export interface FileChooserOptions {
     /**
      * comma seperated mime types to filter files.
      */
-    mime?: string;
-    extra_mime?: string;
+    mime: string[];
     picker_title?: string;
 }
 /**
