@@ -100,7 +100,7 @@ var FileChooser = (function (_super) {
             pluginName: 'FileChooser',
             plugin: 'cordova-plugin-filechooser',
             pluginRef: 'fileChooser',
-            repo: 'https://github.com/ihadeed/cordova-filechooser',
+            repo: 'https://github.com/ChezRD/cordova-filechooser',
             platforms: ['Android']
         })
     ], FileChooser);
